@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Object-oriented JavaScript"
+date:   2017-12-07 14:33:57 -0500
+categories: jekyll update
+---
+
+Today I spent some time reviewing object-oriented JavaScript, or OOJS for short, through a course called Frontend Masters. Although JavaScript does not have formal classes the way Ruby or other object-oriented languages do, the constructor function can act like a class in that it can act like a blueprint for creating new instances of objects. The prototype property is used to add methods to existing constructors.
