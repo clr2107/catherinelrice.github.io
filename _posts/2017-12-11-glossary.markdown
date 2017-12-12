@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Glossary"
+date:   2017-12-11 14:33:57 -0500
+categories: jekyll update
+---
+
+I'm putting together a glossary or dictionary of common web development terms that I find myself always looking up, because even if I have heard a particular term before, I still don't have a good grasp of the concept. One way that I study, in general, is just by compiling a list of terms and ideas that keep coming up, that I know are important, and recording definitions and sometimes examples from different sources (Wikipedia, a coding website in this case like StackOverflow) and I find it helps me remember things more. So far I have:
+
+<strong>npm</strong>:
+package manager for the JavaScript programming language - default package manager for the JavaScript runtime environment node.js
+<br />
+<strong>Node.js</strong>:
+an open-source, cross-platform JavaScript run-time environment for executing JavaScript server-side
+<br />
+<strong>Run-time system</strong>:
+implements portions of an execution model
+<br />
+<strong>Scripting/script language</strong>:
+programming language that supports scripts: programs writen for a special run-time environment that automate the execution of tasks that could alternatively be executed one-byone by a human operator
+<br />
+<strong>web API endpoint</strong>:
+a server-side web API is a programmatic interface consisting of one or more publicly exposed endpoints to a defined request - response message system expressed in JSON or XML, which is exposed via the web, most commonly by means of an HTTP-based web server
+<br />
