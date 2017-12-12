@@ -12,6 +12,14 @@ permalink: /about/blog
 
 
   <ul class="post-list">
+    <li>
+
+        <span class="post-meta">Dec 11, 2017</span>
+
+        <h2>
+          <a class="post-link" href="/jekyll/update/2017/12/11/glossary.html">Glossary</a>
+        </h2>
+      </li>
 
       <li>
 

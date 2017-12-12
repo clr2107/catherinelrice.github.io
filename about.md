@@ -4,22 +4,22 @@ title: About
 permalink: /about/
 ---
 
-Web Developer based in NYC.
-<h2>Skills</h2>
-<h3>Frontend</h3>
+
+<h2>Web Development Skills</h2>
+<h3>Languages</h3>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
+  <li>Ruby</li>
+  <li>JavaScript</li>
   <li>jQuery/Ajax</li>
+  <li>SQL</li>
+</ul>
+<h3>Frameworks</h3>
+<ul>
+  <li>Rails</li>
   <li>Bootstrap</li>
   <li>Materialize</li>
-  <li>JavaScript</li>
-</ul>
-<h3>Backend</h3>
-<ul>
-  <li>Ruby/Rails</li>
-  <li>Python</li>
-  <li>SQL</li>
   <li>PostgreSQL</li>
 </ul>
 <h3>Tools</h3>
