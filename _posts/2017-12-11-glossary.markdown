@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Glossary"
+title:  "Web Dev Glossary"
 date:   2017-12-11 14:33:57 -0500
 categories: jekyll update
 ---
