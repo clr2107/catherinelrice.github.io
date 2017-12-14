@@ -3,18 +3,21 @@ layout: page
 title: About
 permalink: /about/
 ---
+<p><i>I am a web developer with a background in book publishing and journalism. I enjoy building intuitive, minimalist websites and writing maintainable code.</i></p>
 
-
-<h2>Web Development Skills</h2>
+<h2>Skills & Technologies</h2>
 <h3>Languages</h3>
 <ul>
   <li>HTML</li>
+  <i class="devicon-css3-plain colored"></i>
+
   <li>CSS</li>
   <li>Ruby</li>
   <li>JavaScript</li>
   <li>jQuery/Ajax</li>
   <li>SQL</li>
 </ul>
+<i class="devicon-css3-plain colored"></i>
 <h3>Frameworks</h3>
 <ul>
   <li>Rails</li>
