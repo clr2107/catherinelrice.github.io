@@ -29,13 +29,3 @@ permalink: /about/projects
   </div>
 </div>
 
-<br />
-<div class="content">
- <h3>Movie Search</h3>
-    <p>Search for your favorite movies</p>
-    <ul>
-      <li>Technologies: React frontend, Rails backend, Materialize</li>
-    </ul>
-    <p><a href="https://shrouded-mesa-imdb.herokuapp.com/">Live Site</a> | <a href="https://github.com/clr2107/imdb-clone">Source Code</a></p>
-
-</div>
