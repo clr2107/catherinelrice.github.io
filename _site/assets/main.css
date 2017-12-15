@@ -10,12 +10,6 @@ dl, dd, ol, ul, figure {
 /**
  * Basic styling
  */
-
-.contents {
-  border: 1px dotted grey;
-  padding: 20px;
-  margin: 20px;
-}
 body {
   font: 400 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #111;
