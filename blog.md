@@ -12,12 +12,22 @@ permalink: /about/blog
 
 
   <ul class="post-list">
+
+       <li>
+
+        <span class="post-meta">Dec 15, 2017</span>
+
+        <h2>
+          <a class="post-link" href="/jekyll/update/2017/12/15/scripted.html">Volunteering with ScriptEd</a>
+        </h2>
+      </li>
+
     <li>
 
         <span class="post-meta">Dec 11, 2017</span>
 
         <h2>
-          <a class="post-link" href="/jekyll/update/2017/12/11/glossary.html">Glossary</a>
+          <a class="post-link" href="/jekyll/update/2017/12/11/glossary.html">Web Dev Glossary</a>
         </h2>
       </li>
 

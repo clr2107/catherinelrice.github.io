@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Featured Projects
 permalink: /about/projects
 ---
 <div class="projects">
@@ -10,6 +10,7 @@ permalink: /about/projects
     <div class="images-right">
     <img src="{{ "/assets/gift.png" | prepend: site.baseurl }}"/>
   </div>
+  <br />
     <p>'Secret Santa' application which allows users to create a wishlist from items populated from Amazon</p>
     <ul>
       <li>Technologies: Ruby on Rails, PostgreSQL, Bootstrap, Amazon API</li>
@@ -23,6 +24,7 @@ permalink: /about/projects
      <div class="images-right">
     <img src="{{ "/assets/recipebox.png" | prepend: site.baseurl }}"/>
   </div>
+  <br />
     <p>A recipe organizing app which allows users to create, update, search and rate recipes</p>
     <ul>
       <li>Technologies: Ruby on Rails, PostgreSQL, AJAX, Materialize</li>
