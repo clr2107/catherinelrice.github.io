@@ -11,7 +11,7 @@ permalink: /about/projects
     <img src="{{ "/assets/gift-new.png" | prepend: site.baseurl }}"/>
   </div>
   <br />
-    <p>'Secret Santa' application which allows users to create a wishlist from items populated from Amazon</p>
+    <p>'Secret Santa' application which allows users to create a wishlist from items from Amazon and receive a gift from an anonymous user within their friend group</p>
     <ul>
       <li>Technologies: Ruby on Rails, PostgreSQL, Bootstrap, Amazon API</li>
     </ul>
