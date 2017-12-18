@@ -32,8 +32,5 @@ permalink: /about/
   <li>Heroku</li>
 </ul>
 <h3>Methodologies</h3>
-<ul>
-  <li>Object-oriented programming</li>
-  <li>Test-driven development</li>
-  <li>Agile workflow</li>
-</ul>
+<p>Object-oriented programming | Test-driven development | Agile workflow</p>
+
