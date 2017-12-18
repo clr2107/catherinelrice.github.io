@@ -8,7 +8,7 @@ permalink: /about/projects
   <div class="contents">
     <h3>Gift Exchange</h3>
     <div class="images-right">
-    <img src="{{ "/assets/gift.png" | prepend: site.baseurl }}"/>
+    <img src="{{ "/assets/gift-new.png" | prepend: site.baseurl }}"/>
   </div>
   <br />
     <p>'Secret Santa' application which allows users to create a wishlist from items populated from Amazon</p>
@@ -22,7 +22,7 @@ permalink: /about/projects
   <div class="contents">
     <h3>Recipe Organizer</h3>
      <div class="images-right">
-    <img src="{{ "/assets/recipebox.png" | prepend: site.baseurl }}"/>
+    <img src="{{ "/assets/recipe-new.png" | prepend: site.baseurl }}"/>
   </div>
   <br />
     <p>A recipe organizing app which allows users to create, update, search and rate recipes</p>
