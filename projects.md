@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Featured Projects
+title: Projects
 permalink: /about/projects
 ---
 <div class="projects">
