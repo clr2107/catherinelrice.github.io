@@ -15,7 +15,7 @@ permalink: /about/projects
     <ul>
       <li>Technologies: Ruby on Rails, PostgreSQL, Bootstrap, Amazon API</li>
     </ul>
-    <p><a href="https://giftswapdbc.herokuapp.com/users/sign_in">Live Site</a> | <a href="https://github.com/clr2107/Gift-Swap">Source Code</a></p>
+    <p><!-- <a href="https://giftswapdbc.herokuapp.com/users/sign_in">Live Site</a> |  --><a href="https://github.com/clr2107/Gift-Swap">Source Code</a></p>
   </div>
 
 
@@ -29,7 +29,7 @@ permalink: /about/projects
     <ul>
       <li>Technologies: Ruby on Rails, PostgreSQL, AJAX, Materialize</li>
     </ul>
-    <p><a href="recipe-manager-dbc.herokuapp.com">Live Site</a> | <a href="https://github.com/clr2107/Recipe-Organizer">Source Code</a></p>
+    <p><!-- <a href="recipe-manager-dbc.herokuapp.com">Live Site</a> |  --><a href="https://github.com/clr2107/Recipe-Organizer">Source Code</a></p>
   </div>
 </div>
 
