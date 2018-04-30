@@ -1,6 +1,21 @@
+.column {
+	float: left;
+	width: 30%;
+	background-color: linen;
+	padding: 10px;
+	margin: 10px;
+	min-height: 600px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
 
 #underline {
 	text-decoration: underline;
+	text-align: center;
 }
 
 nav ul {
@@ -20,44 +35,51 @@ nav ul li {
 	/*text-decoration: none;*/
 }
 
-div {
-	padding: 10px;
-	margin: 10px;
+div, h1 {
+	padding: 5px;
+	margin: 5px;
 }
 
 #nameplate {
-	border: 2px dotted black;
+	border: 2px solid black;
 	text-align: center;
 	display: block;
 	margin: auto;
-	/*padding: 5px;*/
+	padding-top: 10px;
 	padding-bottom: 10px;
 	max-width: 50%;
 	margin-bottom: 10px;
-	margin-top: 10px;
-	background-color: ivory;
+	margin-top: 20px;
+	/*background-color: ivory;*/
 	border-radius: 5px;
 }
 
 #nameplate h1 {
-	text-shadow: 2px 2px silver;
+	text-shadow: 2px 2px hotpink;
 
 }
 
 body {
 	font-family: Georgia;
-	/*background-color: ivory;*/
+	background-color: ivory;
 }
+
+p, ul, li {
+	line-height: 20px;
+}
+
 #nameplate h5 {
 	font-style: italic;
 	background-color: lightblue;
 	max-width: 50%;
 	display: block;
 	margin: auto;
+	padding: 10px;
+	border-radius: 10px;
 }
 
 nav {
-	background-color: midnightblue;
+	background-color: lightblue;
 	text-align: center;
 	padding: 10px;
 	padding-top: 20px;
@@ -80,11 +102,15 @@ nav a {
 	margin: auto;
 	width: 50%;
 	max-height: 50%;
+	padding-bottom: 5px;
+	margin-bottom: 50px;
 	
 }
 
 #articles {
+	padding-left: 10px;
 	padding: 5px;
+	/*text-align: center;*/
 	margin: 5px;
 }
 
@@ -95,9 +121,19 @@ ul {
 #summary, #bio {
 	text-align: center;
 	font-style: italic;
-	background-color: lightblue;
+	/*background-color: lightblue;*/
 	padding: 10px;
 	margin: 10px;
+}
+
+#summary, #bio {
+	max-width: 75%;
+	display: block;
+	margin: auto;
+}
+
+#summary {
+	line-height: 20px;
 }
 
 li a {
@@ -106,7 +142,52 @@ li a {
 }
 
 li a:hover {
+	color: deeppink;
+	background-color: white;
+}
+
+li a:active {
 	color: magenta;
 	background-color: white;
 }
 
+#music-pic {
+	max-width: 50%;
+}
+
+footer {
+	background-color: lightblue;
+}
+
+footer p {
+	/*padding: 20px;*/
+	/*margin: 10px;*/
+	color: white;
+	font-size: 8px;
+	text-align: center;
+}
+
+.icon {
+	display: inline-block;
+	padding: 10px;
+	margin: 10px;
+}
+
+#contact {
+	text-align: center;
+}
+
+p, h2, h3 {
+	padding-left: 10px;
+}
+
+#description {
+	text-align: center;
+	text-shadow: 2px 2px silver;
+}
+
+#social-media {
+	display: block;
+	margin: auto 0;
+	text-align: center;
+}
