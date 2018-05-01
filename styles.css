@@ -1,3 +1,5 @@
+
+
 .column {
 	float: left;
 	width: 30%;
@@ -5,6 +7,7 @@
 	padding: 10px;
 	margin: 10px;
 	min-height: 600px;
+	border-radius: 10px;
 }
 
 .row:after {
@@ -62,6 +65,9 @@ div, h1 {
 body {
 	font-family: Georgia;
 	background-color: ivory;
+	max-height: 200px;
+	padding: 0px;
+	margin: 0px;
 }
 
 p, ul, li {
@@ -81,9 +87,11 @@ p, ul, li {
 nav {
 	background-color: lightblue;
 	text-align: center;
-	padding: 10px;
+	/*padding: 10px;*/
 	padding-top: 20px;
 	padding-bottom: 20px;
+	/*margin-top: 0px;*/
+
 
 }
 
@@ -157,6 +165,7 @@ li a:active {
 
 footer {
 	background-color: lightblue;
+	/*margin-top: 100px;*/
 }
 
 footer p {
