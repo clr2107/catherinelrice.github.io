@@ -1,7 +1,7 @@
 .column {
 	float: left;
 	width: 30%;
-	background-color: rgba(250,240,230);
+	background-color: rgba(250,240,230, 0.7);
 	padding: 10px;
 	margin: 10px;
 	min-height: 650px;
@@ -62,7 +62,7 @@ div, h1 {
 
 body {
 	font-family: Georgia;
-	background-color: rgba(192,192,192);
+	background-color: rgba(192,192,192, 0.7);
 	max-height: 200px;
 	padding: 0px;
 	margin: 0px;
@@ -192,7 +192,7 @@ p, h2, h3 {
 
 #description {
 	text-align: center;
-	text-shadow: 2px 2px silver;
+	text-shadow: 2px 2px ivory;
 }
 
 #social-media {
@@ -204,7 +204,7 @@ p, h2, h3 {
 #articles-div {
 	padding-left: 20px;
 	margin-left: 20px;
-		background-color: rgba(255, 255, 240, 0.5);
+	background-color: rgba(255, 255, 240, 0.5);
 }
 
 a {
