@@ -1,10 +1,10 @@
 .column {
 	float: left;
 	width: 30%;
-	background-color: linen;
+	background-color: rgba(250,240,230);
 	padding: 10px;
 	margin: 10px;
-	min-height: 600px;
+	min-height: 650px;
 	border-radius: 10px;
 }
 
@@ -62,7 +62,7 @@ div, h1 {
 
 body {
 	font-family: Georgia;
-	background-color: ivory;
+	background-color: rgba(192,192,192);
 	max-height: 200px;
 	padding: 0px;
 	margin: 0px;
@@ -204,4 +204,13 @@ p, h2, h3 {
 #articles-div {
 	padding-left: 20px;
 	margin-left: 20px;
+		background-color: rgba(255, 255, 240, 0.5);
+}
+
+a {
+	text-decoration: none;
+}
+
+h2 {
+	text-decoration: underline;
 }
