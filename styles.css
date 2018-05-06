@@ -194,7 +194,7 @@ p, h2, h3 {
 
 #description {
 	text-align: center;
-	text-shadow: 2px 2px ivory;
+	text-shadow: 2px 2px white;
 }
 
 #social-media {
@@ -218,7 +218,7 @@ h2 {
 	text-decoration: underline;
 }
 
-#about {
+#about, #homepage {
 	padding: 20px;
 	margin: 20px;
 	background-color: rgba(255,255,240, 0.5);
