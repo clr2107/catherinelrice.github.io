@@ -1,7 +1,7 @@
 .column {
 	float: left;
 	width: 30%;
-	background-color: rgba(250,240,230, 0.7);
+	background-color: rgba(255,255,240, 0.5);
 	padding: 10px;
 	margin: 10px;
 	min-height: 650px;
@@ -53,6 +53,7 @@ div, h1 {
 	margin-top: 20px;
 	/*background-color: ivory;*/
 	border-radius: 5px;
+	box-shadow: 5px 5px black;
 }
 
 #nameplate h1 {
@@ -119,6 +120,7 @@ nav a {
 	/*text-align: center;*/
 	margin: 5px;
 	/*margin-left: 20px;*/
+	/*border-radius: 10px;*/
 }
 
 ul {
@@ -201,10 +203,11 @@ p, h2, h3 {
 	text-align: center;
 }
 
-#articles-div {
+#articles-div, #homepage {
 	padding-left: 20px;
 	margin-left: 20px;
 	background-color: rgba(255, 255, 240, 0.5);
+	border-radius: 20px;
 }
 
 a {
@@ -213,4 +216,11 @@ a {
 
 h2 {
 	text-decoration: underline;
+}
+
+#about {
+	padding: 20px;
+	margin: 20px;
+	background-color: rgba(255,255,240, 0.5);
+	border-radius: 20px;
 }
