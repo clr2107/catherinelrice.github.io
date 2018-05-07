@@ -227,8 +227,8 @@ h2 {
 
 #rates {
 	text-align: center;
-	background-color: mistyrose;
-	color: midnightblue;
+	background-color: lightblue;
+	/*color: midnightblue;*/
 	font-weight: bold;
 	border-radius: 5px;
 }
