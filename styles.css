@@ -224,3 +224,11 @@ h2 {
 	background-color: rgba(255,255,240, 0.5);
 	border-radius: 20px;
 }
+
+#rates {
+	text-align: center;
+	background-color: mistyrose;
+	color: midnightblue;
+	font-weight: bold;
+	border-radius: 5px;
+}
